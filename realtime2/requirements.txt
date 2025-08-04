@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+pandas
+ultralytics         # If you're using YOLOv8 via Ultralytics
+pyttsx3             # For text-to-speech
+sqlalchemy          # For any database-related work
+deepface            # If you're using face detection/recognition
+Pillow              # For image processing
